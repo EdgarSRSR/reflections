@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository it doesn't create automatically a commit. You on your own need to do it, so you can decide on what files to commit.

@@ -1,0 +1,24 @@
+Using diff to find bugs, you use diff -u older_document.dc newer_document.dc on the mac command line to find the difference between two versions of the same file.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It can help you debug a file or retrieve things.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros are that you can create a commit that has more sense and meaning than one that regularly updates, the con is that you can forget to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+some version control systems are oriented to creating projects that require manipulations of multiple files, while others are for projects that don't require it.
+
+How can you use the commands git log and git diff to view the history of files?
+
+you use first git log to see which commit you want to analyze, once you have it, you press q to exit diff log and the you enter git diff old_commit new_commit, to compare them.
+
+How might using version control make you more confident to make changes that could break something?
+
+using version control, lets you know that if an error appears you can fix it eventually.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use git to create programs.
