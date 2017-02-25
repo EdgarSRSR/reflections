@@ -5,3 +5,7 @@ When you initialize a repository it doesn't create automatically a commit. You o
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It helps you to plan your commit, by letting you accomodate all the files that your going to save.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can use git diff --staged to check the differences between the commits and the staging area, so you can make good logical changes.
