@@ -13,3 +13,12 @@ you can use git diff --staged to check the differences between the commits and t
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If you are creating different versions of a file with variations and you want to compare them, then the branches would be useful.
+
+How do the diagrams help you visualize the branch structure?
+
+It's good to draw diagrams that reflect the branches on the git files, so you can retain an idea of how everything is acommodated- that way you can look at the diagrams to figure out anything if there's confusion.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+you create a new branch that contains the changes contained in the two branches.
