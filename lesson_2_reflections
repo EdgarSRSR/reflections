@@ -22,3 +22,8 @@ It's good to draw diagrams that reflect the branches on the git files, so you ca
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 you create a new branch that contains the changes contained in the two branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging makes it easier, butmakng it manually helps you make it more carefully and taking into account everything.
+
