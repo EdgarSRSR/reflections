@@ -3,3 +3,6 @@ You would want to do that if you are working on a project with a more than one p
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because that way you have more control over what is committed.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A fork is used to work with a project that someone else made and uploaded to github, a clone is used to 'download' a project into the local repository, it can be a clone from a fork. The branches are used to test different characteristics of a same project in your local repository.
