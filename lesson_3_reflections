@@ -12,3 +12,6 @@ You can use it for reference for possible changes on the file.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without git hub one coul collaborate with other people still, but the process would be less organized.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You can have different versions of a file to experiment.
